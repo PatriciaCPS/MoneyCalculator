@@ -1,0 +1,4 @@
+EUR, euro, €
+USD, Dolar estadounidense, $
+YJF, Yen, ¥ 
+
